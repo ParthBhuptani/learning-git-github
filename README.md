@@ -1,8 +1,20 @@
-# 🚀 GitHub: The Complete Guide for Developers
+<p align="center">
+  <img src="assets/github-banner.png" alt="GitHub Complete Guide Banner" width="100%">
+</p>
 
-> From Your First Commit to Open Source Contributions
+<h1 align="center">🚀 GitHub: The Complete Guide for Developers</h1>
 
-![GitHub Banner](assets/github-banner.png)
+<p align="center">
+  <strong>From Your First Commit to Open Source Contributions</strong>
+</p>
+
+<p align="center">
+  Learn Git, GitHub, Branching, Pull Requests, Open Source Contributions, and Essential Commands
+</p>
+
+<p align="center">
+  ⭐ Beginner Friendly • 🚀 Developer Guide • 💻 Hands-On Examples
+</p>
 
 ---
 
@@ -28,9 +40,9 @@
 
 ## 📌 Introduction
 
-GitHub is one of the most important platforms for modern software development. Whether you're a student, freelancer, or professional developer, GitHub helps you manage code, collaborate with teams, contribute to open-source projects, and showcase your work.
+GitHub is one of the most important platforms in modern software development. Whether you're a student, freelancer, or professional developer, GitHub helps you manage code, collaborate with teams, contribute to open-source projects, and showcase your work.
 
-GitHub works alongside Git, a version control system that tracks changes in your code and allows you to collaborate efficiently with other developers.
+GitHub works alongside Git, a powerful Version Control System (VCS) that tracks changes in code and enables developers to work efficiently both individually and in teams.
 
 ---
 
