@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/github-banner.png" alt="GitHub Complete Guide Banner" width="100%">
-</p>
+![GitHub Complete Guide Banner](./assets/github-banner.png)
 
 <h1 align="center">🚀 GitHub: The Complete Guide for Developers</h1>
 
